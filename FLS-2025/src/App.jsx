@@ -1,4 +1,4 @@
-import Card from './Card.jsx'
+import Card from './Test/Card.jsx'
 
 function App() {
 
